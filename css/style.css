@@ -92,7 +92,7 @@ nav .logo{
 .menu-btn{
 	cursor: pointer;
 	position: absolute;
-	top:20px;
+		top:12px;
 	right:30px;
 	z-index: 2;
 	display: none;
